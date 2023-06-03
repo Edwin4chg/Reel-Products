@@ -60,6 +60,6 @@ Contributions to Reel-Products are welcome! If you find any issues or have sugge
 
 For any inquiries or questions, please contact EDWIN4CHG at "edwin@edwin4chg" or any social network with my username "EDWIN4CHG" .
 
-<p align="center">
-  <img width="300" height="140" alt="Edwin4chg" src="https://edwinchigne.com/wp-content/uploads/2023/03/Copia-de-Copia-de-Moderno-logotipo-marca-trazo-fondo-azul-turquesa-1.png">
-</p>
+<a align="center">
+  <img width="300" height="140" alt="Edwin4chg" src="https://edwinchigne.com/wp-content/uploads/2023/03/Copia-de-Copia-de-Moderno-logotipo-marca-trazo-fondo-azul-turquesa-1.png" href="https://Edwin4chg.com">
+</a>
